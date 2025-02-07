@@ -51,6 +51,7 @@ namespace Exam2_CSBasics_OOP_
             Console.WriteLine($"your Grade is {myScore} from {totalScore}");
         }
 
+
     }
 }
 
